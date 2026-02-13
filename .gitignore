@@ -5,6 +5,8 @@
 
 node_modules/
 
+.npmrc
+
 logs/
 *.log
 npm-debug.log*
