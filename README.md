@@ -24,7 +24,7 @@ Node.js/Express backend with JWT auth, MongoDB, Docker, Grafana, and CI.
 │   │       └── auth.test.js
 │   └── utils/
 │       └── jwt.js
-├── calculator/          # React calculator app (Lab 4)
+├── labs/                # Lab submission documents (Labs 1-7)
 ├── .github/workflows/   # CI workflow (Lab 7)
 ├── server.js
 ├── Dockerfile
